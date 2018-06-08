@@ -1,0 +1,17 @@
+commit 6368e5b4af8e85841494fc3b39afb414cb446330
+Author: David McGahan <david.mcgahan@griffithuni.edu.au>
+Date:   Fri Jun 8 09:22:53 2018 +1000
+
+    concerns with natives
+
+commit ca5150a0b0a3b6c3dc445374679fb85380444a0e
+Author: David McGahan <david.mcgahan@griffithuni.edu.au>
+Date:   Fri Jun 8 09:17:05 2018 +1000
+
+    add observations about Mars
+
+commit d4270247c05f209f5121175885c1ca18d10d27dd
+Author: David McGahan <david.mcgahan@griffithuni.edu.au>
+Date:   Fri Jun 8 09:06:22 2018 +1000
+
+    Start notes on Mars excursion
